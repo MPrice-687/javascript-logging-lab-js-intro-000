@@ -1,9 +1,9 @@
 ```js
-console.error("HALP!")
+callconsole.error("HALP!")
 ```
 ```js
-console.log("Make a deposite.")
+callconsole.log("Make a deposite.")
 ```
 ```js
-console.warn("Hold your horses!")
+callconsole.warn("Hold your horses!")
 ```
